@@ -297,7 +297,7 @@ function problemNine(){
     console.log('descriptiveFood from problemNine', descriptiveFood)
     
     
-    //10. Create a function that will use advanced array methods on the 'dishes' array and return the result ["Vegetarian Lasagna", "Vegetarian Falafel", "Vegetarian Chili"]
+//10. Create a function that will use advanced array methods on the 'dishes' array and return the result ["Vegetarian Lasagna", "Vegetarian Falafel", "Vegetarian Chili"]
     
 function problemTen(){
     let results;
@@ -317,9 +317,6 @@ function problemTen(){
 
 let descriptiveVegetarianFood = problemTen()
 console.log('descriptiveVegetarianFood from problemTen', descriptiveVegetarianFood)
-
-
-
 
 //BONUS
 
